@@ -21,3 +21,4 @@ The puzzles are [here!](https://adventofcode.com/2015).
 * Day 12: [JSAbacusFramework.io](https://github.com/jimflood/aoc2015/blob/main/src/Day12.hs)
 * Day 13: [Knights of the Dinner Table](https://github.com/jimflood/aoc2015/blob/main/src/Day13.hs)
 * Day 14: [Reindeer Olympics](https://github.com/jimflood/aoc2015/blob/main/src/Day14.hs)
+* Day 15: [Science for Hungry People](https://github.com/jimflood/aoc2015/blob/main/src/Day15.hs)
