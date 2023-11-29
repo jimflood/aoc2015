@@ -20,3 +20,4 @@ The puzzles are [here!](https://adventofcode.com/2015).
 * Day 11: [Corporate Policy](https://github.com/jimflood/aoc2015/blob/main/src/Day11.hs)
 * Day 12: [JSAbacusFramework.io](https://github.com/jimflood/aoc2015/blob/main/src/Day12.hs)
 * Day 13: [Knights of the Dinner Table](https://github.com/jimflood/aoc2015/blob/main/src/Day13.hs)
+* Day 14: [Reindeer Olympics](https://github.com/jimflood/aoc2015/blob/main/src/Day14.hs)
