@@ -23,3 +23,5 @@ The puzzles are [here!](https://adventofcode.com/2015).
 * Day 14: [Reindeer Olympics](https://github.com/jimflood/aoc2015/blob/main/src/Day14.hs)
 * Day 15: [Science for Hungry People](https://github.com/jimflood/aoc2015/blob/main/src/Day15.hs)
 * Day 16: [Aunt Sue](https://github.com/jimflood/aoc2015/blob/main/src/Day16.hs)
+* Day 17: [No Such Thing as Too Much](https://github.com/jimflood/aoc2015/blob/main/src/Day17.hs)
+* Day 18: [Like a GIF For Your Yard](https://github.com/jimflood/aoc2015/blob/main/src/Day18.hs)
